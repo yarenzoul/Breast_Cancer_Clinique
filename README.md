@@ -11,6 +11,7 @@ Bu proje, meme kanseri verilerini analiz etmek ve görselleştirmek amacıyla ol
 
 ## **Veri Setleri**
 - Kullandığım veri seti: https://www.kaggle.com/datasets/piotrgrabo/breastcancerproteomes
+- Notebook: https://www.kaggle.com/code/yarenzoul/breast-cancer-clinic
 
 ## **Analiz Adımları**
 1-Veri Setinin Hazırlanması: Veri setleri birleştirilmiş ve gerekli kütüphaneler indirilerek analiz için uygun hale getirilmiştir.
